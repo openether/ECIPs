@@ -1,4 +1,4 @@
-# ⛔️ WARNING ⛔️ : Deprecated repository. Please use http://github.com/ethereumclassic/ECIPS for ethereum classic improvements. 
+# ⛔️ WARNING ⛔️ : http://github.com/ethereumclassic/ECIPS IS UNOFFICIAL AND SHOULD NOT BE USED.
 
 # ECIP
 
